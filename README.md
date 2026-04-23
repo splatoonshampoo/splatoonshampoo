@@ -1,7 +1,7 @@
 
 <p align="center">
-<img width="735" height="245" alt="image" src="https://github.com/user-attachments/assets/14ec863b-b612-4842-8d36-f85a1872d222" />
-  
+<img width="735" height="245" alt="image" src="https://github.com/user-attachments/assets/1a27077d-3eda-4120-b67c-28cd4d25ffdc" />
+
 <p align="center">
 .. ✦﹕ [ The cycle ends here. ] ﹕✦ ..
   <p align="center">
@@ -19,4 +19,5 @@
  └ : [ ✦ ] : ┘
 
 <p align="center">
-<img width="735" height="245" alt="image" src="https://github.com/user-attachments/assets/2001e90a-6430-44a6-bdd9-1cfff242db7f" />
+<img width="735" height="245" alt="image" src="https://github.com/user-attachments/assets/53658474-d547-44d7-9da7-48656eb0ceca" />
+
