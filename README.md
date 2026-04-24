@@ -18,6 +18,5 @@
  <p align="center">
  └ : [ ✦ ] : ┘
 
-<p align="center">
-<img width="735" height="245" alt="image" src="https://github.com/user-attachments/assets/53658474-d547-44d7-9da7-48656eb0ceca" />
+
 
