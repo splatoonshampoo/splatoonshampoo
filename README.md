@@ -1,3 +1,4 @@
+<p align="center"> <![](https://komarev.com/ghpvc/?username=splatoonshampoo&label=Targets+Acquired)>
 <p align="center"> <img src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/IMG_1565.png" width="600">
   
 <p align="center"> $${\color{#0092fc}𓏏𓏏　　Muffin　╱　Dom　　☆　　˖}$$
