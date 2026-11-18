@@ -3,6 +3,10 @@
   <a href=https://splatoonshampoo.atabook.org/><img src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/ATA.png" title=oouuu><a href=https://splatoonshampoo.straw.page/><img src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/straw.png" title=talk.></a>
 </p>
 
+<p align="center">
+  <img src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/stamps/tumblr_75175211c3df6345fd54016a8af75340_1548ee16_250.webp"> <img src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/stamps/tumblr_ae811f83ca09c585fa8844618549a1f3_37260763_250.webp">
+</p>
+
   
 <p align="center"> 
   <img src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/IMG_1565.png" width="600">
@@ -19,10 +23,6 @@
 
 <p align="center">
   $${\color{#004ee9}⪩　@Let's　make　this　quick　and　easy.　:}$$
-</p>
-
-<p align="center">
-  <img src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/stamps/tumblr_75175211c3df6345fd54016a8af75340_1548ee16_250.webp"> <img src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/stamps/tumblr_ae811f83ca09c585fa8844618549a1f3_37260763_250.webp">
 </p>
 
 <p align="center"> 
