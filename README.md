@@ -26,7 +26,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/IMG_1566.png" width="800">
+  <img src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/IMG_1583.png" width="800">
 </p>
 
 <p align="center">
