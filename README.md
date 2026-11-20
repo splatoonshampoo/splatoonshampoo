@@ -1,5 +1,5 @@
 <p align="center">
-  <a href=https://splatoonshampoo.atabook.org/><img src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/ATA.png" title=ahhh><a href=https://splatoonshampoo.straw.page/><img src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/straw.png" title=talk.></a>
+  <a href=https://splatoonshampoo.atabook.org/><img src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/ATA.png" title=ahhh><a href=https://splatoonshampoo.straw.page/><img src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/straw.png" title=ask　me　anything.></a>
 </p>
 
 
@@ -9,7 +9,7 @@
 
   
 <p align="center"> 
-  <img src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/IMG_1565.png" width="600">
+  <img src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/IMG_1565.png" width="600" title=big　gun>
 </p>
 
 
@@ -25,18 +25,23 @@
   $${\color{#004ee9}⪩　@Let's　make　this　quick　and　easy.　:}$$
 </p>
 
+<p align="center"> 
+  <img src="https://file.garden/aj7gTjpcZy_DNQpJ/2026_11_20_00s_Kleki.png" width="600" title=?!?!?!??!>
+</p>
+
 <details align="center">
 <summary>
 ㅤ ${\textsf{\color{#002ce2}Click to see Kins!}}$ </summary>
-  <img src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/Soda_Mini_Hyperlaser.png" width="15"> $${\color{#064fb7}Hyperlaser　-　PHIGHTING!}$$
-  
-  <img src="https://file.garden/aj7gTjpcZy_DNQpJ/Soda_Mini_Dom.png" width="15"> $${\color{#064fb7}Dom　-　PHIGHTING!}$$
-  
-  <img src="https://file.garden/aj7gTjpcZy_DNQpJ/hernameispoo" width="20"> $${\color{#064fb7}Asuka　Langley　Soryu　-　Neon　Genesis　Evangelion}$$
- 
-  <img src="https://file.garden/aj7gTjpcZy_DNQpJ/hernameisalsopoo" width="20"> $${\color{#064fb7}Rei　Ayanami　-　Neon　Genesis　Evangelion}$$
- 
-  <img src="https://file.garden/aj7gTjpcZy_DNQpJ/2026_11_20_00p_Kleki.png" width="20"> $${\color{#064fb7}Garra　Warden　-　Creatures　Of　Sonaria}$$
+  <img src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/Soda_Mini_Hyperlaser.png" width="15" title=shocking　right> $${\color{#064fb7}Hyperlaser　-　PHIGHTING!}$$
+  </p>
+<img src="https://file.garden/aj7gTjpcZy_DNQpJ/Soda_Mini_Dom.png" width="15" title=dom　more　like　dumb> $${\color{#064fb7}Dom　-　PHIGHTING!}$$
+  </p>
+<img src="https://file.garden/aj7gTjpcZy_DNQpJ/hernameispoo" width="20" title=kill　everyone> $${\color{#064fb7}Asuka　Langley　Soryu　-　Neon　Genesis　Evangelion}$$
+  </p>
+<img src="https://file.garden/aj7gTjpcZy_DNQpJ/hernameisalsopoo" width="20" title=her　name　is　　poo> $${\color{#064fb7}Rei　Ayanami　-　Neon　Genesis　Evangelion}$$
+  </p>
+<img src="https://file.garden/aj7gTjpcZy_DNQpJ/2026_11_20_00p_Kleki.png" width="20" title=i　have　12　terrifying　seconds　and　i　lowk　kill　people.　> $${\color{#064fb7}Garra　Warden　-　Creatures　Of　Sonaria}$$
+  </p>
 </details>
 
 <p align="center"> 
