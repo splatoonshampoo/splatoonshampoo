@@ -25,12 +25,12 @@
   $${\color{#004ee9}⪩　@Let's　make　this　quick　and　easy.　:}$$
 </p>
 
+<details align="center">
 <summary>
 ㅤ ${\textsf{\color{#002ce2}Click to see Kins!}}$ </summary>
-${\textsf{\color{#0207c6}★}}$
+  <img src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/Soda_Mini_Hyperlaser.png" width="15"> $${\color{#064fb7}Hyperlaser-PHIGHTING!}$$
 
- <a href="" target="_blank"><img width="26" src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/Soda_Mini_Hyperlaser.png"></a>[Hyperlaser](https://phighting.wiki/Hyperlaser)╶╴PHIGHTING! ✦ 
-
+  <img src="https://file.garden/aj7gTjpcZy_DNQpJ/hernameispoo" width="20"> $${\color{#064fb7}Asuka　Langley　Soryu-Neon　Genesis　Evangelion}$$
 
 
 <p align="center"> 
