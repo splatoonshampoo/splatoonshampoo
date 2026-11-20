@@ -43,9 +43,5 @@
 
 
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=splatoonshampoo&color=0092fc&style=flat&label=Targets+Spotted)
-</p>
-
-<p align="center">
-  <img src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/stamps/tumblr_7fa1c25617b3b4fa5a8d475ffde12bbf_c0babd5f_1280.webp" width="160"> <img src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/stamps/tumblr_18b630797fa55b14d1292777393776c5_41b36bb4_1280.webp" width="160"> <img src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/stamps/tumblr_0a26b4e3a246c9afa7b91f7f8a4fda31_b513ba96_1280.webp" width="160">
-</p>
+  <img src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/2026_11_19_13h_Kleki.png" width="25">
+  <img src="https://api.visitorbadge.io/api/visitors?path=splatoonshampoo&label=Targets+Spotted&labelColor=0068fc&countColor=0068fc&style=flat"> 
