@@ -31,7 +31,7 @@
   <img src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/Soda_Mini_Hyperlaser.png" width="15"> $${\color{#064fb7}Hyperlaser-PHIGHTING!}$$
 
   <img src="https://file.garden/aj7gTjpcZy_DNQpJ/hernameispoo" width="20"> $${\color{#064fb7}Asuka　Langley　Soryu-Neon　Genesis　Evangelion}$$
-
+</details>
 
 <p align="center"> 
   <img src="https://file.garden/aj7gTjpcZy_DNQpJ/%E2%9C%A6%20Hyperlaser/IMG_1583.png" width="800">
